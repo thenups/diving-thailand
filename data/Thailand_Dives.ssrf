@@ -1,0 +1,542 @@
+<divelog program='subsurface' version='3'>
+<settings>
+</settings>
+<divesites>
+<site uuid='1fb33d15' name='Banana Bay - Racha Noi, Thailand' gps='7.498778 98.324667'>
+</site>
+<site uuid='20a60b7f' name='Palong Wall - Koh Phi Phi, Thailand' gps='7.689509 98.765525'>
+</site>
+<site uuid='80987779' name='Banana Rock - Racha Noi, Thailand' gps='7.501408 98.327582'>
+</site>
+<site uuid='96325c36' name='Twins - Koh Tao, Thailand' gps='9.999084 99.779192'>
+</site>
+<site uuid='974ece1b' name='Chumpong Rock - Koh Tao, Thailand' gps='10.161833 99.784639'>
+</site>
+<site uuid='9b660b50' name='Bay 1 - Racha Yai, Thailand' gps='7.596972 98.370222'>
+</site>
+<site uuid='ab284c0b' name='White Rock - Koh Tao, Thailand' gps='10.109806 99.813944'>
+</site>
+<site uuid='cd9a8def' name='Koh Bida Nok - Koh Phi Phi, Thailand' gps='7.654055 98.766068'>
+</site>
+<site uuid='d62595ef' name='Turtle Rock - Phuket, Thailand' gps='7.684868 98.763032'>
+</site>
+<site uuid='e6c1cd2b' name='Shark Point - Phuket, Thailand' gps='7.749191 98.576700'>
+</site>
+<site uuid='eee3a5e0' name='Southwest Pinnacle - Koh Tao, Thailand' gps='9.999084 99.779192'>
+</site>
+<site uuid='f77407b3' name='Sattakut Shipwreck - Koh Tao, Thailand' gps='10.105583 99.813583'>
+</site>
+</divesites>
+<dives>
+<dive number='1' rating='3' visibility='2' divesiteid='cd9a8def' date='2020-03-10' time='09:54:00' duration='51:00 min'>
+  <divemaster>Tom Domville</divemaster>
+  <buddy>Prithvi, Ravi</buddy>
+  <notes>Aussie Divers (PADI), Phuket
+Charter Boat Dive
+
+Current: miodre current
+Viz: 3-4m
+Avg. Depth: 
+
+Fish:
+Parrot fish, box fish, puffed fish, pipe fish, file fish, blue dragon nuddie, sea cucumbers, spiny lobster, shrimps, clownfish, lionfish, cleaner wrasse, banded snakes, moray eel, damsel fish, yellow back butterfly fish, angelfish, banner fish, moorish idol, crown of thorn sea start, blue star
+
+Coral:
+Arella gorgonion, acropora elk horn coral (plate variety at 40ft depth), usmilia, anemone, porites, montipora</notes>
+  <suit>3mm, long wet</suit>
+  <cylinder size='12.0 l' workpressure='200.0 bar' description='12ℓ 200 bar' start='220.0 bar' end='90.0 bar' />
+  <weightsystem weight='3.6 kg' description='weight' />
+  <divetemperature air='31.0 C' water='27.0 C'/>
+  <divecomputer model='manually added dive' last-manual-time='51:00 min'>
+  <depth max='17.9 m' mean='16.446 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='1:59 min' depth='17.9 m' />
+  <sample time='46:01 min' depth='17.9 m' />
+  <sample time='47:27 min' depth='5.0 m' />
+  <sample time='50:27 min' depth='5.0 m' />
+  <sample time='51:00 min' depth='0.0 m' />
+  </divecomputer>
+</dive>
+<dive number='2' rating='3' visibility='4' tags='boat' divesiteid='d62595ef' date='2020-03-10' time='11:53:00' duration='53:00 min'>
+  <divemaster>Tom Domville</divemaster>
+  <buddy>Prithvi, Ravi</buddy>
+  <notes>Aussie Divers (PADI), Phuket
+Charter Boat Dive
+
+Current: No current, a few thermoclines
+Viz: 6m
+Avg. Depth: 
+
+Fish:
+Nudies everywhere! Damsel fish, spiny lobster, shrimp, moorish idol, blue fin trevelli (super long time), something that looked like a tang, magnificent war slug, harliquen?, godfrey’s sea cucumber, Durban dancing shrimp, reef crab, cowre, trevally, 2 banded snapper, black damsel fish, spotted box fish
+
+Coral:
+Porietes plate, montipora, acropora</notes>
+  <suit>3mm, long wet</suit>
+  <cylinder size='12.0 l' description='12ℓ 200 bar' start='230.0 bar' end='90.0 bar' depth='66.0 m' />
+  <weightsystem weight='3.4 kg' description='weight' />
+  <divetemperature air='35.0 C' water='29.0 C'/>
+  <divecomputer model='manually added dive' last-manual-time='53:00 min'>
+  <depth max='18.7 m' mean='17.191 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='2:05 min' depth='18.7 m' />
+  <sample time='47:55 min' depth='18.7 m' />
+  <sample time='49:27 min' depth='5.0 m' />
+  <sample time='52:27 min' depth='5.0 m' />
+  <sample time='53:00 min' depth='0.0 m' />
+  </divecomputer>
+</dive>
+<dive number='3' rating='3' visibility='2' tags='boat' divesiteid='e6c1cd2b' date='2020-03-10' time='14:16:00' duration='50:00 min'>
+  <divemaster>Tom Domville</divemaster>
+  <buddy>Prithvi, Ravi</buddy>
+  <notes>Aussie Divers (PADI), Phuket
+Charter Boat Dive
+
+Current: very strong
+Viz: 3m
+Avg. Depth: 
+
+Coral:
+Porites, ctornella (harp coral genus), purple barrel sponge
+
+Fish:
+Orange spike sea cucumber, pineapple sea cucumber, marbled sea cucumber, leopard shark, ghost pipe fish, painted spiny lobster, Pharo cuttle fish (genus sapia), blue stars, ocillated nuddie, yellow spotted clam, surgeon fish (lined), batfish, yellow box fullier, butterfly fish, barracuda (so many at the beginning), moray eel, cornefish</notes>
+  <suit>3mm, long wet</suit>
+  <cylinder size='12.0 l' workpressure='232.0 bar' description='12ℓ 232 bar' start='210.0 bar' end='70.0 bar' depth='66.0 m' />
+  <weightsystem weight='3.6 kg' description='weight' />
+  <divetemperature air='37.0 C' water='29.0 C'/>
+  <divecomputer model='manually added dive' last-manual-time='50:00 min'>
+  <depth max='15.8 m' mean='14.6 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='1:45 min' depth='15.8 m' />
+  <sample time='45:15 min' depth='15.8 m' />
+  <sample time='46:27 min' depth='5.0 m' />
+  <sample time='49:27 min' depth='5.0 m' />
+  <sample time='50:00 min' depth='0.0 m' />
+  </divecomputer>
+</dive>
+<dive number='4' rating='5' visibility='3' tags='boat' divesiteid='20a60b7f' date='2020-03-12' time='09:57:07' duration='52:00 min'>
+  <divemaster>Tom Domville</divemaster>
+  <buddy>Prithvi, Ravi</buddy>
+  <notes>Aussie Divers (PADI), Phuket
+Charter Boat Dive
+
+Current: 
+Viz: 
+Avg. Depth: 
+
+Coral:
+Parieties, lots of coral eggs, Yellow sea can, gorgonian, giant purple barrel sponges, white sea fan
+
+Fish:
+Durban Dancing shrimp, black tip reef shark, barracuda, hawksbill turtle, nudieeeees, wart slugs, moorish idols, stone fish, scorpion fish, fusiliers, box fish, moray eel, damselfish, angelfish</notes>
+  <suit>3mm, long wet</suit>
+  <cylinder size='12.0 l' workpressure='200.0 bar' description='12ℓ 200 bar' start='210.0 bar' end='70.0 bar' depth='66.0 m' />
+  <weightsystem weight='3.6 kg' description='belt' />
+  <divetemperature air='30.0 C' water='28.0 C'/>
+  <divecomputer model='manually added dive' last-manual-time='52:00 min'>
+  <depth max='18.8 m' mean='17.251 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='2:05 min' depth='18.8 m' />
+  <sample time='46:55 min' depth='18.8 m' />
+  <sample time='48:27 min' depth='5.0 m' />
+  <sample time='51:27 min' depth='5.0 m' />
+  <sample time='52:00 min' depth='0.0 m' />
+  </divecomputer>
+</dive>
+<dive number='5' rating='5' visibility='4' tags='boat' divesiteid='d62595ef' date='2020-03-12' time='11:48:41' duration='52:00 min'>
+  <divemaster>Tom Domville</divemaster>
+  <buddy>Prithvi, Ravi</buddy>
+  <notes>Aussie Divers (PADI), Phuket
+Charter Boat Dive
+
+Current: Many thermoclines (between 26C &amp; 29C)
+Viz: 3-4m
+Avg. Depth: 
+
+Coral:
+Eusmilia, bright green boulder coral, parieties, purple barrel sponge
+
+Fish:
+Black tip reef shark, hawksbill turtle, feather star, crown of thorns, box fish, stone fish, grey trevali, schooling’s chevron barracuda, blue dragon nuddie, sea cucumbers, brittle star, blue star</notes>
+  <suit>3mm, long wet</suit>
+  <cylinder size='12.0 l' workpressure='200.0 bar' description='12ℓ 200 bar' start='200.0 bar' end='70.0 bar' depth='66.0 m' />
+  <weightsystem weight='3.6 kg' description='belt' />
+  <divetemperature air='33.0 C' water='27.0 C'/>
+  <divecomputer model='manually added dive' last-manual-time='52:00 min'>
+  <depth max='17.1 m' mean='15.778 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='1:54 min' depth='17.1 m' />
+  <sample time='47:06 min' depth='17.1 m' />
+  <sample time='48:27 min' depth='5.0 m' />
+  <sample time='51:27 min' depth='5.0 m' />
+  <sample time='52:00 min' depth='0.0 m' />
+  </divecomputer>
+</dive>
+<dive number='6' rating='4' visibility='2' tags='boat' divesiteid='e6c1cd2b' date='2020-03-12' time='14:06:15' duration='48:00 min'>
+  <divemaster>Tom Domville</divemaster>
+  <buddy>Prithvi, Ravi</buddy>
+  <notes>Aussie Divers (PADI), Phuket
+Charter Boat Dive
+
+Current: medium, one or two cold thermoclines
+Viz: 4m viz
+Avg. Depth: 
+
+Fish: 
+Lion fish, dwarf lion fish, wrasse, black spot damselfish, blue trevali, parrotfish, carp (one dying, one alive), leopard shark, moray eel, moorish idol, nuddie branch(1), trigger fish, copperhead butterfly fish, snapper, grouper, rabbit fish, soldier fish, schooling chevron barracuda, solo great barracuda, porcupine fish, swimming banded sea snake, loads of urchins 
+
+Coral:
+Barrel sponge</notes>
+  <suit>3mm, long wet</suit>
+  <cylinder size='12.0 l' workpressure='200.0 bar' description='12ℓ 200 bar' start='200.0 bar' end='70.0 bar' depth='66.0 m' />
+  <weightsystem weight='3.6 kg' description='belt' />
+  <divetemperature air='36.0 C' water='28.0 C'/>
+  <divecomputer model='manually added dive' last-manual-time='48:00 min'>
+  <depth max='17.3 m' mean='15.841 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='1:55 min' depth='17.3 m' />
+  <sample time='43:05 min' depth='17.3 m' />
+  <sample time='44:27 min' depth='5.0 m' />
+  <sample time='47:27 min' depth='5.0 m' />
+  <sample time='48:00 min' depth='0.0 m' />
+  </divecomputer>
+</dive>
+<dive number='7' tags='boat' divesiteid='1fb33d15' date='2020-03-14' time='10:50:35' duration='1:07 min'>
+  <divemaster>Tom Domville</divemaster>
+  <buddy>Ravi</buddy>
+  <notes>Aussie Divers (PADI), Phuket
+Charter Boat Dive
+
+Aborted dive due to shortness of breath caused my acid reflux. This was a very panicked abort as the feeling was unatural and it felt like I couldn't breathe even thought there was air coming through the regulator. Surfaced, was able to catch my breath, and decided to decent again.</notes>
+  <suit>3mm, long wet</suit>
+  <cylinder size='12.0 l' workpressure='200.0 bar' description='12ℓ 200 bar' depth='66.0 m' />
+  <weightsystem weight='3.6 kg' description='belt' />
+  <divetemperature air='31.0 C' water='30.0 C'/>
+  <divecomputer model='manually added dive' last-manual-time='1:00 min'>
+  <depth max='5.5 m' mean='2.75 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='0:30 min' depth='5.5 m' />
+  <sample time='1:07 min' depth='0.0 m' />
+  </divecomputer>
+</dive>
+<dive number='7' rating='5' visibility='5' tags='boat' divesiteid='1fb33d15' date='2020-03-14' time='10:55:20' duration='51:00 min'>
+  <divemaster>Tom Domville</divemaster>
+  <buddy>Ravi</buddy>
+  <notes>Aussie Divers (PADI), Phuket
+Charter Boat Dive
+
+Current: no current
+Viz: 10m
+Avg Depth: 13.4m
+
+Fish:
+Trumpet Fish
+Hermit crab with harry legs
+Frog Fish
+Puffer fish - very large
+Goat Fish
+Angelfish (sexy time)
+Stragged Damselfish</notes>
+  <suit>3mm, long wet</suit>
+  <cylinder size='12.0 l' workpressure='200.0 bar' description='12ℓ 200 bar' start='190.0 bar' end='70.0 bar' depth='66.0 m' />
+  <weightsystem weight='3.6 kg' description='belt' />
+  <divetemperature air='31.0 C' water='29.0 C'/>
+  <divecomputer model='manually added dive' last-manual-time='51:00 min'>
+  <depth max='23.0 m' mean='20.792 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='2:33 min' depth='23.0 m' />
+  <sample time='45:27 min' depth='23.0 m' />
+  <sample time='47:27 min' depth='5.0 m' />
+  <sample time='50:27 min' depth='5.0 m' />
+  <sample time='51:00 min' depth='0.0 m' />
+  </divecomputer>
+</dive>
+<dive number='8' rating='5' visibility='4' tags='boat' divesiteid='80987779' date='2020-03-14' time='12:49:53' duration='53:00 min'>
+  <divemaster>Tom Domville</divemaster>
+  <buddy>Ravi</buddy>
+  <notes>Aussie Divers (PADI), Phuket
+Charter Boat Dive
+
+Current: slight current, 2 degree thermocline 
+Viz: 6-8m 
+Avg Depth: 13.4m
+
+Fish:
+Pharoe Cuttlefish
+Durbin Dancing Shrimp
+Blue Spotted Ray
+Nuddies
+Sea Cucumber
+Godfrey’s Sea Cumber
+Trevali (tail looked like Malaysia airlines, it was being serviced by lots of cleaner wrass)
+Blue Stars
+Butterfly fish
+Box Fish
+
+Coral:
+Soft, Elkhorn (with blue tips), staghorms, Blue tipped coral</notes>
+  <suit>3mm, long wet</suit>
+  <cylinder size='12.0 l' workpressure='200.0 bar' description='12ℓ 200 bar' start='200.0 bar' end='80.0 bar' depth='66.0 m' />
+  <weightsystem weight='3.6 kg' description='belt' />
+  <divetemperature air='33.0 C' water='28.0 C'/>
+  <divecomputer model='manually added dive' last-manual-time='53:00 min'>
+  <depth max='19.4 m' mean='17.799 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='2:09 min' depth='19.4 m' />
+  <sample time='47:51 min' depth='19.4 m' />
+  <sample time='49:27 min' depth='5.0 m' />
+  <sample time='52:27 min' depth='5.0 m' />
+  <sample time='53:00 min' depth='0.0 m' />
+  </divecomputer>
+</dive>
+<dive number='9' tags='boat' divesiteid='9b660b50' date='2020-03-14' time='14:58:09' duration='5:00 min'>
+  <divemaster>Tom Domville</divemaster>
+  <buddy>Ravi</buddy>
+  <notes>Aussie Divers (PADI), Phuket
+Charter Boat Dive
+
+Had a false start and had to surface right as we started decending. Later completely aborted dive due to shortness of breath caused my acid reflux. Much more controlled ascent this time. Decided to not continue diving.
+
+Site Info:
+Reef was ruined after tsunami
+In 2015-2016, 1 boat and several cubes were scuttled for training. The area is now home to schooling fish and baby coral. The
+sunken ship is named "The Haroumi"</notes>
+  <suit>3mm, long wet</suit>
+  <cylinder size='12.0 l' workpressure='200.0 bar' description='12ℓ 200 bar' depth='66.0 m' />
+  <weightsystem weight='3.6 kg' description='belt' />
+  <divetemperature air='36.0 C' water='30.0 C'/>
+  <divecomputer model='manually added dive' last-manual-time='5:00 min'>
+  <depth max='10.7 m' mean='8.168 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='1:11 min' depth='10.7 m' />
+  <sample time='3:49 min' depth='10.7 m' />
+  <sample time='5:00 min' depth='0.0 m' />
+  </divecomputer>
+</dive>
+<dive number='10' rating='4' visibility='5' tags='boat, wings' divesiteid='974ece1b' date='2020-03-17' time='07:39:38' duration='46:00 min'>
+  <divemaster>Liz</divemaster>
+  <buddy>Prithvi, Ravi</buddy>
+  <notes>Hydronauts (RAID), Koh Tao
+Boat Dive - rented dive boat with other schools
+
+Viz: 10m
+Avg Depth: 15.8m
+Gear: Shark Skin Suit (full-zip top, full pants), wings, 2 meter octopus with backup bungeed around neck
+
+Fish:
+Parrot Fish, Cleaner wrasse, huge groupers, wart slug, school of baby barracuda (yellow tail) , angel fish large, moorish idols (large), damsel fish (large), hermit crab, Christmas tree worms, beaked coral fish, sargeant major fish, urchins, oysters, giant clams, fusiliers, sea cucumber 
+
+Coral:
+Acrophora (staghorn coral), pore coral, parieties, leptoria, barrel sponge</notes>
+  <suit>Shark Skin full-zip top, Shark Skin pants</suit>
+  <cylinder size='12.0 l' workpressure='200.0 bar' description='12ℓ 200 bar' start='190.0 bar' end='50.0 bar' depth='65.73 m' />
+  <weightsystem weight='2.0 kg' description='integrated' />
+  <divetemperature air='28.0 C' water='29.0 C'/>
+  <divecomputer model='manually added dive' last-manual-time='46:00 min' date='2020-03-17' time='14:18:38'>
+  <depth max='25.1 m' mean='22.272 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='2:47 min' depth='25.1 m' />
+  <sample time='40:13 min' depth='25.1 m' />
+  <sample time='42:27 min' depth='5.0 m' />
+  <sample time='45:27 min' depth='5.0 m' />
+  <sample time='46:00 min' depth='0.0 m' />
+  </divecomputer>
+</dive>
+<dive number='11' rating='4' visibility='2' tags='boat, wings' divesiteid='ab284c0b' date='2020-03-17' time='09:28:17' duration='62:00 min'>
+  <divemaster>Liz</divemaster>
+  <buddy>Ravi, Prithvi</buddy>
+  <notes>Hydronauts (RAID), Koh Tao
+Boat Dive - rented dive boat with other schools
+
+Viz: 4-5m
+Avg Depth: 10.4m
+Gear: Shark Skin Suit (full-zip top, full pants), wings, 2 meter octopus with backup bungeed around neck
+
+Fish:
+Blue spotted ribbon tail ray, golden travail, moorish idol, butterfly fish, sergeant major fish, puffer fish, file fish, damsel fish, angel fish, varicose sea slug, soldier fish, grouper, trigger fish(?), squirrel fish, gobi, snapper, Christmas tree worms (sooooooo many) 
+
+Coral: 
+Eggs, elk horn coral, table coral, stag horn coral, boulder coral, barrel sponge,</notes>
+  <suit>Shark Skin full-zip top, Shark Skin pants</suit>
+  <cylinder size='12.0 l' workpressure='200.0 bar' description='12ℓ 200 bar' start='200.0 bar' end='80.0 bar' depth='65.73 m' />
+  <weightsystem weight='2.0 kg' description='integrated' />
+  <divetemperature air='30.0 C' water='29.0 C'/>
+  <divecomputer model='manually added dive' last-manual-time='62:00 min' date='2020-03-17' time='14:28:17'>
+  <depth max='18.5 m' mean='17.236 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='2:03 min' depth='18.5 m' />
+  <sample time='56:57 min' depth='18.5 m' />
+  <sample time='58:27 min' depth='5.0 m' />
+  <sample time='61:27 min' depth='5.0 m' />
+  <sample time='62:00 min' depth='0.0 m' />
+  </divecomputer>
+</dive>
+<dive number='12' rating='3' visibility='2' tags='boat, wings, wreck' divesiteid='f77407b3' date='2020-03-18' time='07:29:08' duration='50:00 min'>
+  <divemaster>Genis Mir (51986)</divemaster>
+  <buddy>Prithvi, Ravi</buddy>
+  <notes>LBD™ - La Bombona Diving™ (RAID), Koh Tao
+Boat Dive - semi-private triple decker boat
+
+Viz: 3-5m
+Avg Depth: 15.5m
+Gear: wings
+
+Fish:
+Striped Remora (swimming around us by itself at the beginning as we descended)
+Long nosed (faced) emperor fish
+One Spot/Black Spot Snapper
+Crab
+Angelfish
+Anemone Fish
+Black spotted puffer
+Pipe Fish
+Long-snout Clingfish
+2 large groupers (in captains caban)
+Butterfly Fish
+Soldier Fish
+Blue Lip fish that eat sea urchins
+Christmas Tree Worm
+
+Coral:
+Acrophora
+Table Coral
+
+Surface Interval: squid/cuttefish</notes>
+  <suit>3mm, short wet</suit>
+  <cylinder size='12.0 l' workpressure='200.0 bar' description='12ℓ 200 bar' start='200.0 bar' end='80.0 bar' depth='65.73 m' />
+  <weightsystem weight='3.0 kg' description='integrated' />
+  <divetemperature air='28.0 C' water='29.0 C'/>
+  <divecomputer model='manually added dive' last-manual-time='50:00 min'>
+  <depth max='28.0 m' mean='24.877 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='3:07 min' depth='28.0 m' />
+  <sample time='43:53 min' depth='28.0 m' />
+  <sample time='46:27 min' depth='5.0 m' />
+  <sample time='49:27 min' depth='5.0 m' />
+  <sample time='50:00 min' depth='0.0 m' />
+  </divecomputer>
+</dive>
+<dive number='13' rating='5' visibility='3' tags='boat, wings' divesiteid='ab284c0b' date='2020-03-18' time='09:25:02' duration='63:00 min'>
+  <divemaster>Genis Mir (51986)</divemaster>
+  <buddy>Prithvi, Ravi</buddy>
+  <notes>LBD™ - La Bombona Diving™ (RAID), Koh Tao
+Boat Dive - semi-private triple decker boat
+
+Viz: 5-10m
+Avg Depth: 10.8m
+Gear: wings
+
+Fish:
+Striped Remora (swimming around us by itself at the beginning as we descended)
+Long nosed (faced) emperor fish
+One Spot/Black Spot Snapper
+Crab
+Angelfish
+Anemone Fish
+Black spotted puffer
+Pipe Fish
+Long-snout Clingfish
+2 large groupers (in captains caban)
+Butterfly Fish
+Soldier Fish
+Blue Lip fish that eat sea urchins
+Christmas Tree Worm
+
+Coral:
+Acrophora
+Table Coral</notes>
+  <suit>3mm, short wet</suit>
+  <cylinder size='12.0 l' workpressure='200.0 bar' description='12ℓ 200 bar' start='190.0 bar' end='70.0 bar' depth='65.73 m' />
+  <weightsystem weight='3.0 kg' description='integrated' />
+  <divetemperature air='28.0 C' water='29.0 C'/>
+  <divecomputer model='manually added dive' last-manual-time='63:00 min'>
+  <depth max='16.8 m' mean='15.741 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='1:52 min' depth='16.8 m' />
+  <sample time='58:08 min' depth='16.8 m' />
+  <sample time='59:27 min' depth='5.0 m' />
+  <sample time='62:27 min' depth='5.0 m' />
+  <sample time='63:00 min' depth='0.0 m' />
+  </divecomputer>
+</dive>
+<dive number='14' rating='3' visibility='3' tags='boat' divesiteid='eee3a5e0' date='2020-03-19' time='08:20:00' duration='59:00 min'>
+  <divemaster>Emile</divemaster>
+  <buddy>Ravi, Prithvi</buddy>
+  <notes>Seashells Dive Resort, Koh Tao
+Boat Dive - private double decker boat
+
+Viz: 10m
+Avg Depth: 
+
+Fish:
+Giant Groupers (super giant)
+Blue spotted ribbon tail rays
+Damselfish
+Angelfish
+Triggerfish (very territorial)
+Wart slug
+Hermit crab
+Black Spot Porcupine fish
+Yellow tail baby schooling barracuda 
+Parrotfish
+Clams (walls full)
+
+Coral:
+Gorgonian fans, carrot coral, stag horn</notes>
+  <suit>3mm, short wet</suit>
+  <cylinder size='12.0 l' workpressure='200.0 bar' description='12ℓ 200 bar' start='200.0 bar' end='50.0 bar' />
+  <weightsystem weight='3.0 kg' description='weight' />
+  <divetemperature air='28.0 C' water='29.0 C'/>
+  <divecomputer model='manually added dive' last-manual-time='59:00 min'>
+  <depth max='25.0 m' mean='22.805 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='2:47 min' depth='25.0 m' />
+  <sample time='53:13 min' depth='25.0 m' />
+  <sample time='55:27 min' depth='5.0 m' />
+  <sample time='58:27 min' depth='5.0 m' />
+  <sample time='59:00 min' depth='0.0 m' />
+  </divecomputer>
+</dive>
+<dive number='15' rating='1' visibility='1' tags='boat' divesiteid='96325c36' date='2020-03-19' time='10:20:06' duration='44:00 min'>
+  <divemaster>Emile</divemaster>
+  <buddy>Ravi, Prithvi</buddy>
+  <notes>Seashells Dive Resort, Koh Tao
+Boat Dive - private double decker boat
+
+Viz: 4-5m
+Avg Depth: 
+
+Struggled a lot with my breathing on this one, very panicked
+
+Fish:
+Clams
+Trigger fish (got chased by one)
+Parrot fish
+Anemone
+Giant Cowries
+Sargeant majors
+Squirrelfish
+Christmas tree worms
+Boring clam
+Pipe fish (hiding in stag horn coral)
+Clownfish family (“Nemo’s” patch)
+
+Coral:
+Porites, Acropora, Boulder coral, Stag horn coral</notes>
+  <suit>3mm, short wet</suit>
+  <cylinder size='12.0 l' workpressure='200.0 bar' description='12ℓ 200 bar' start='200.0 bar' end='100.0 bar' />
+  <weightsystem weight='3.0 kg' description='weight' />
+  <divetemperature air='29.0 C' water='29.0 C'/>
+  <divecomputer model='manually added dive' last-manual-time='44:00 min' date='2020-03-19' time='12:02:06'>
+  <depth max='17.5 m' mean='15.874 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='1:57 min' depth='17.5 m' />
+  <sample time='39:03 min' depth='17.5 m' />
+  <sample time='40:27 min' depth='5.0 m' />
+  <sample time='43:27 min' depth='5.0 m' />
+  <sample time='44:00 min' depth='0.0 m' />
+  </divecomputer>
+</dive>
+</dives>
+</divelog>
